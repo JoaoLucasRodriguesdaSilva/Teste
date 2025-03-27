@@ -1,0 +1,1 @@
+print("Rosas sao vermelhas\nvioletas saõ azuis")
